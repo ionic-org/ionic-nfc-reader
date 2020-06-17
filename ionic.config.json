@@ -1,5 +1,7 @@
 {
   "name": "ionic-nfc-reader",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
